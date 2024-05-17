@@ -17,7 +17,7 @@
 - 🔭 &nbsp; Learning MERN -Stack development & Aspiring Devops
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated in Bachelor's of Computer Application 2024.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🌱 &nbsp; Enlightement is the unprogrammed state  .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
@@ -33,6 +33,7 @@
   ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+  ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)
   ![Recoil Badge](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=fff&style=flat)
   ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
