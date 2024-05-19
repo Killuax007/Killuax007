@@ -12,8 +12,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/Killuax_007/)](https://x.com/Killuax_007/)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat&link=https://leetcode.com/pandamanoj872/)](https://leetcode.com/pandamanoj872)
 
-<img align="right" alt="GIF" width="450px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 
 ### 👨🏻‍💻 About Me
 
