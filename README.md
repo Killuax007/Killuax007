@@ -15,14 +15,15 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; Learning MERN -Stack development & Aspiring Devops
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+####         Hey there  Manoj  Here 
+#####        Consistency, code, and creation
 - 🎓 &nbsp; Graduated from Bachelor's of Computer Application 2024.
-- 🌱 &nbsp; Enlightement is the unprogrammed state  .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🔭 &nbsp; I turn caffeine into code and ideas into products.
+- 🤝 &nbsp; Let’s build something cool together....
+- 🌲 &nbsp;I'm growing a green forest — one commit at a time. 🌱
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 | <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killuax007&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 
