@@ -22,7 +22,7 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Web Tech Stack & Languages
 
