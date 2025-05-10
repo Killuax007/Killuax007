@@ -24,46 +24,6 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-## Web Tech Stack & Languages
-
-- 💻 &#160;![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-
-- 🌐 &#160;![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-  ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-  ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)
-  ![Recoil Badge](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=fff&style=flat)
-  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
-  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-  ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
-  ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
-  ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
-  ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
-  ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
-  ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-
-- 🛢 &#160;![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-- 🔧 &#160;![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-## Hosting
-
-![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat)
-![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
-
----
+| <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killuax007&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 
 ⭐️ From [Manoj kumar](https://github.com/Killuax007)
