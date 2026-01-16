@@ -25,6 +25,6 @@
 
 
 
-| <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killuax007&layout=compact&theme=highcontrast&hide_border=true" /></a> |
+| <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Killuax007&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Manoj's Stats" /></a> | <a href="https://github.com/Killuax007"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killuax007&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 
 ⭐️ From [Manoj kumar](https://github.com/Killuax007)
