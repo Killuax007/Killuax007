@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi ,  I'm <a href="https://www.linkedin.com/in/manoj-kumar-panda-527089272
 /" target="_blank"> Manoj kumar panda </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Engineer+%3A)" /> </h3>
 
 ## Connect with me :
 
